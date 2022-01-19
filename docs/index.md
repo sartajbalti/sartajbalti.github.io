@@ -1,4 +1,5 @@
-<img src="77585189.jpg" alt="drawing" width="200" border-radius="50%"/>
+
+<img src="77585189.jpg" alt="drawing" width="200" style="border-radius: 50%">
 
 # Welcome 
 
