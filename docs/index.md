@@ -1,4 +1,8 @@
-@import "a.css";                               
+<style>
+mark{
+    color:red;
+}
+</style>                              
 <img src="77585189.jpg" width="200" class="center">
 
 # Welcome 
