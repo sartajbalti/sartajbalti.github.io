@@ -1,5 +1,5 @@
                                
-<img src="77585189.jpg" width="200" class="center">
+<img src="77585189.jpg" width="200" >
 
 # Welcome 
 
