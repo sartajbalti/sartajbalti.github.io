@@ -1,5 +1,10 @@
-
-<img src="77585189.jpg" width="200" >
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+<img src="77585189.jpg" width="200" class="center">
 
 # Welcome 
 
