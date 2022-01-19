@@ -1,4 +1,5 @@
-![MarineGEO circle logo](77585189.jpg "@sartajbalti" ){: width=150 height=100 style="float:right; padding:16px"}
+![MarineGEO circle logo](77585189.jpg "@sartajbalti" )
+<img src="77585189.jpg" alt="drawing" width="200"/>
 # Welcome 
 
 👋 Hi, I’m Sartaj Ahmed Salman from Pakistan
