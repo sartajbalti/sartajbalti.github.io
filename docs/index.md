@@ -13,6 +13,9 @@ The University of Electro-Communications, Tokyo, Japan
 
 - 📫 How to reach me ...  s2140019@edu.cc.uec.ac.jp
 
+[![GitHub](github.png)](https://github.com/sartajbalti)
+[![GoogleScholar](google.png)](https://scholar.google.com/citations?user=wa3AMkQAAAAJ&hl=en)
+
 -------------------     ----------------------------
 Research Interests 
 ------------------
