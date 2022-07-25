@@ -1,12 +1,12 @@
                    
 <img src="77585189.jpg" width="200">
 
-# Welcome 
-
 - 👋 Hi, I’m 
 
 Sartaj Ahmed Salman 
-============
+===================
+
+PhD Student at  Rocky's Lab UEC. (http://img2.hc.uec.ac.jp/)
 
 -------------------     ----------------------------
 The University of Electro-Communications, Tokyo, Japan                   
@@ -14,10 +14,12 @@ The University of Electro-Communications, Tokyo, Japan
 - 📫 How to reach me ...  s2140019@edu.cc.uec.ac.jp
 
 -------------------     ----------------------------
-
+Research Interests 
+------------------
+Machine Learning, Computer Vision, Artificial Intelligence and Data Science
 
 Objectives
----------
+----------
 To secure a challenging position in a reputable organization to expand my learnings, knowledge, 
 and skills. Also, to learn and contribute to the professionally challenging environment in a manner 
 that certainly benefits the research objectives and enhances skills in the field of Computer Science.
@@ -31,8 +33,7 @@ Education
 2018-2021
 :   **MS, Computer Science**; Nanjing University of Science and Technology (Nanjing, China)
 
-Research Interests 
-: Machine Learning, Computer Vision, Artificial Intelligence and Data Science
+
 
 
 
