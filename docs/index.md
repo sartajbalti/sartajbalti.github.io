@@ -15,6 +15,13 @@ The University of Electro-Communications, Tokyo, Japan
 
 -------------------     ----------------------------
 
+
+Objectives
+---------
+To secure a challenging position in a reputable organization to expand my learnings, knowledge, 
+and skills. Also, to learn and contribute to the professionally challenging environment in a manner 
+that certainly benefits the research objectives and enhances skills in the field of Computer Science.
+
 Education
 ---------
 
