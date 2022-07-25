@@ -13,9 +13,10 @@ The University of Electro-Communications, Tokyo, Japan
 
 - 📫 How to reach me ...  s2140019@edu.cc.uec.ac.jp
 
-[![GitHub](github.png)](https://github.com/sartajbalti)
-[![GoogleScholar](google.png)](https://scholar.google.com/citations?user=wa3AMkQAAAAJ&hl=en)
-
+[![GitHub](github1.png)](https://github.com/sartajbalti)
+[![GoogleScholar](google1.png)](https://scholar.google.com/citations?user=wa3AMkQAAAAJ&hl=en)
+[![Linkedin](li.png)](https://www.linkedin.com/in/sartaj-ahmed-salman-166229a2/)
+[![ResearchGate](re.png)]([https://www.facebook.com/sartajbalti/](https://www.researchgate.net/profile/Sartaj-Salman))
 -------------------     ----------------------------
 Research Interests 
 ------------------
