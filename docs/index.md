@@ -16,8 +16,9 @@ The University of Electro-Communications, Tokyo, Japan
 [![GitHub](github1.png)](https://github.com/sartajbalti)
 [![GoogleScholar](google1.png)](https://scholar.google.com/citations?user=wa3AMkQAAAAJ&hl=en)
 [![Linkedin](li.png)](https://www.linkedin.com/in/sartaj-ahmed-salman-166229a2/)
-[![ResearchGate](re.png)]([https://www.facebook.com/sartajbalti/](https://www.researchgate.net/profile/Sartaj-Salman))
--------------------     ----------------------------
+[![ResearchGate](re.png)](https://www.researchgate.net/profile/Sartaj-Salman))
+
+-----------------------------------------------------------------------------------------------------------------
 Research Interests 
 ------------------
 Machine Learning, Computer Vision, Artificial Intelligence and Data Science
